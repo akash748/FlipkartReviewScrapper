@@ -57,8 +57,10 @@ Install the requirements.txt file
     
 ## Demo
 
-Insert gif or link to demo
 
+<p><img align = "centre" alt src = "https://github.com/akash748/LinearRegGif/blob/main/HomePage.png" width = "800" height = "320"/></p>
+
+<p><img align = "centre" src = "https://github.com/akash748/LinearRegGif/blob/main/Result.png" width = "800" height = "320"/></p>
 
 ## Steps Before Cloud Deployment
 
